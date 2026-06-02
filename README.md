@@ -5,7 +5,7 @@ I build websites, landing pages, online stores, Telegram bots, and AI tools for 
 My main focus is creating practical web solutions with a clean structure, fast performance, responsive design, and a clear path for future development.
 
 ## Website
-[Visit SiteLab Studio](https://sitelab-studio.com)
+[Website Development Services - SiteLab Studio](https://sitelab-studio.com/en)
 
 ## What I build
 * Business websites
