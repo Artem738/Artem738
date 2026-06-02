@@ -1,14 +1,16 @@
-# Artem Babichev
 I am a full-stack web developer building multilingual Laravel-based websites, online stores, Telegram bots, and AI-powered business tools — from frontend interfaces and backend logic to deployment.
 
 I have worked with web projects since 2006, starting with SEO, WordPress, and Drupal. Today, my main focus is creating Laravel-based web solutions with a clean structure, fast performance, responsive design, multilingual content management, and a clear path for future development.
 
 ---
-## Website Development Services
+
+### Website Development Services
+
 [Website Development Services - SiteLab Studio](https://sitelab-studio.com/en)
 
+---
 
-## What I build
+### What I build
 
 * Business websites
 * Landing pages
@@ -20,8 +22,9 @@ I have worked with web projects since 2006, starting with SEO, WordPress, and Dr
 * API integrations
 * Custom Laravel-based systems
 
+---
 
-## Main stack
+### Main stack
 
 * PHP
 * Laravel
@@ -34,8 +37,9 @@ I have worked with web projects since 2006, starting with SEO, WordPress, and Dr
 * MySQL
 * Git
 
+---
 
-## Development approach
+### Development approach
 
 I prefer clear, stable, and maintainable architecture.
 For SEO-focused websites, I use server-rendered Laravel pages with Blade and Livewire where interactive behavior is needed.
@@ -44,8 +48,9 @@ The backend handles business logic, validation, authentication, data, and integr
 
 I also use Python for automation, custom scripts, and non-standard technical tasks.
 
+---
 
-## Current focus
+### Current focus
 
 * Multilingual websites, bots, and business tools
 * Laravel-based web projects
