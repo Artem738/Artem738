@@ -6,7 +6,7 @@ I have worked with web projects since 2006, starting with SEO, WordPress, and Dr
 
 ---
 
-### Website Development Services
+### My Site
 
 [Website Development Services - SiteLab Studio](https://sitelab-studio.com/en)
 
