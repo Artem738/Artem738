@@ -1,3 +1,5 @@
+## About me
+
 I am a full-stack web developer building multilingual Laravel-based websites, online stores, Telegram bots, and AI-powered business tools — from frontend interfaces and backend logic to deployment.
 
 I have worked with web projects since 2006, starting with SEO, WordPress, and Drupal. Today, my main focus is creating Laravel-based web solutions with a clean structure, fast performance, responsive design, multilingual content management, and a clear path for future development.
