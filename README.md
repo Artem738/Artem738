@@ -1,15 +1,11 @@
 # Artem Babichev
-
-I build websites, landing pages, online stores, Telegram bots, and AI tools for business.
-
+I am a full-stack web developer building complete Laravel-based websites, online stores, Telegram bots, and AI tools for business.
 I have worked with web projects since 2006, starting with SEO, WordPress, and Drupal. Today, my main focus is creating Laravel-based web solutions with a clean structure, fast performance, responsive design, and a clear path for future development.
 
 ## Website Development Services
-
 [Website Development Services - SiteLab Studio](https://sitelab-studio.com/en)
 
 ## What I build
-
 * Business websites
 * Landing pages
 * Online stores
@@ -21,30 +17,25 @@ I have worked with web projects since 2006, starting with SEO, WordPress, and Dr
 * Custom Laravel-based systems
 
 ## Main stack
-
 * PHP
 * Laravel
 * Livewire
-* Blade
 * Tailwind CSS
-* Alpine.js
 * Flutter
+* Python
 * Docker
+* Linux
 * MySQL
 * Git
 
 ## Development approach
-
-I prefer simple, stable, and maintainable architecture.
-
+I prefer clear, stable, and maintainable architecture.
 For SEO-focused websites, I use server-rendered Laravel pages with Blade and Livewire where interactive behavior is needed.
-
 For application-style interfaces, I can use Flutter with a Laravel backend.
-
 The backend handles business logic, validation, authentication, data, and integrations. The frontend stays clean, practical, and focused on user experience.
+I also use Python for automation, custom scripts, and non-standard technical tasks.
 
 ## Current focus
-
 * Laravel-based web projects
 * Livewire-powered interfaces
 * SEO-friendly website engines
